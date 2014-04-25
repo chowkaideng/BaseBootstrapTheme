@@ -1,0 +1,28 @@
+/*
+Theme Name: Base Bootstrap Theme
+Theme URI: http://bmt.com.ve/
+Author: BMT
+Author URI: http://bmt.com.ve/
+Description: Clean, basic theme based on Twitter Bootstrap
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: responsive, base, basic, bmt, development
+Text Domain: basebootstraptheme
+*/
+
+/* GENERIC STYLES */
+
+body, html {
+	padding: 0;
+	margin: 0;
+}
+
+/* HEADER ZONE */
+#header-zone {}
+
+/*MIDDLE ZONE */
+#middle-zone {}
+
+/*FOOTER ZONE */
+#footer-zone {}
